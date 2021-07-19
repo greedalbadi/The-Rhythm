@@ -1,6 +1,6 @@
 # The Rhythm
 
-# [Version 0.1](https://github.com/greedalbadi/The-Rhythm/blob/main/The%20Rhythem.exe)
+# [Version 0.1](https://github.com/greedalbadi/The-Rhythm/releases/tag/0.1)
 The rhythem is a simple app to check proxies list (.txt)
 
 # Features
