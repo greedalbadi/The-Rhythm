@@ -1,7 +1,7 @@
 # The Rhythm
 
-# [Version 0.1](https://github.com/greedalbadi/The-Rhythm/releases/tag/0.1)
-The rhythem is a simple app to check proxies list (.txt)
+# [Version 0.2](https://github.com/greedalbadi/The-Rhythm/releases/tag/0.2)
+The rhythm is an app to check proxies list (.txt)
 
 # Features
 - The ability check HTTP/HTTPS and SOCKS4.
@@ -11,6 +11,12 @@ The rhythem is a simple app to check proxies list (.txt)
 - The ability to Boost the tool to check 400 proxie at the same time (200 by default).
 - The ability to grab HTTP/HTTPS and SOCKS4 proxies.
 - The ability to choose how to save the proxies example(proxy:http).
+- Saves details about the runs
+
+# About the last update
+- Better code.
+- User agent update
+- Checked the discord webhook option.
 
 # How to send list to telegram and Discord
 
